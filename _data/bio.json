@@ -1,140 +1,144 @@
-{
-  "basics": {
-    "name": "Rei Yamamoto",
-    "label": "Student",
-    "picture": "https://reiyama622.github.io/images/IMG_7426 2.jpeg",
-    "email": "reihy@hawaii.edu",
-    "phone": "(808)722-6565",
-    "website": "https://reiyama622.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+     {
+   "basics":{
+      "name":"Rei Yamamoto",
+      "label":"Student",
+      "picture":"https://reiyama622.github.io/images/IMG_7426 2.jpeg",
+      "email":"reihy@hawaii.edu",
+      "phone":"(808)722-6565",
+      "website":"https://reiyama622.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"reiyama622",
+            "url":"http://github.com/reiyama622"
+         },
+         {
+            "network":"linkedin",
+            "username":"rei-yamamoto-123579178",
+            "url":"http://linkedin.com/in/rei-yamamoto-123579178"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "reiyama622",
-        "url": "http://github.com/reiyama622"
+         "name":"Traveling",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "rei-yamamoto-123579178",
-        "url": "http://linkedin.com/in/rei-yamamoto-123579178"
-      }  
-    ]
-  },
-  "interests": [
-    {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Swimming",
-      "keywords": [
-        
-      ]
-    },
-    {
-      "name": "Watching Korean Dramas",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Excel",
-        "Word",
-        "Powerpoint"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Shidler College of Business",
-      "area": "University of Hawaii",
-      "studyType": "B.B.A. Management Information Systems",
-      "startDate": "2017 Fall",
-      "endDate": "2022 Spring",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-     {
-      "institution": "Seoul National University",
-      "area": "Manoa International Exchange Program",
-      "studyType": "Business Administration",
-      "startDate": "2019 August",
-      "endDate": "2019 December",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Malama Solar LLC",
-      "position": "Project Coordinator",
-      "website": "",
-      "startDate": "2020 August",
-      "endDate": "Present",
-      "summary": "Coordinate Solar Installation",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Deans List",
-      "date": "2017-Present",
-      "awarder": "University of Hawaii",
-    },
-    {
-      "title": "Academic Merit Scholarship",
-      "date": "2017-Present",
-      "awarder": "University of Hawaii",
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+         "name":"Swimming",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Watching Korean Dramas",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Excel",
+            "Word",
+            "Powerpoint"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business",
+         "area":"University of Hawaii",
+         "studyType":"B.B.A. Management Information Systems",
+         "startDate":"2017 Fall",
+         "endDate":"2022 Spring",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"Seoul National University",
+         "area":"Manoa International Exchange Program",
+         "studyType":"Business Administration",
+         "startDate":"2019 August",
+         "endDate":"2019 December",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Malama Solar LLC",
+         "position":"Project Coordinator",
+         "website":"",
+         "startDate":"2020 August",
+         "endDate":"Present",
+         "summary":"Coordinate Solar Installation",
+         "highlights":[
+            "Maintain, update, and oversee official college newspaper website",
+            "Drive, design and build student-community projects for UH Manoa"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Center for Renewable Energy and Island Sustainability",
+         "website":"http://manoa.hawaii.edu/reis",
+         "position":"Software Developer",
+         "startDate":"2016-01-01",
+         "endDate":"Present",
+         "summary":"Lead developer for weather sensing project",
+         "highlights":[
+            "Design firmware for distributed weather sensor network",
+            "Maintain custom data collection and storage infrastructure"
+         ]
+      },
+      {
+         "organization":"",
+         "website":"",
+         "position":"Professional organization involvement",
+         "startDate":"",
+         "endDate":"",
+         "summary":"",
+         "highlights":[
+            "Chair, ACM Manoa, 2016-Present",
+            "Member, IEEE Student Branch, 2014-Present",
+            "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Manoa Deans List",
+         "date":"2017-Present",
+         "awarder":"University of Hawaii"
+      },
+      {
+         "title":"Academic Merit Scholarship",
+         "date":"2017-Present",
+         "awarder":"University of Hawaii"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
