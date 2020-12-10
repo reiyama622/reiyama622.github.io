@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Performing WODs Technical Essay
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-29
+date: 2020-12-03
 labels:
 ---
 Checkpoint A:
